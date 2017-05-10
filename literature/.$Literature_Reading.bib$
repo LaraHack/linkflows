@@ -19,6 +19,18 @@
   Url                      = {http://onlinelibrary.wiley.com/doi/10.1002/asi.21591/full}
 }
 
+@Article{,
+  Title                    = {Cloudy, increasingly FAIR; revisiting the FAIR Data guiding principles for the European Open Science Cloud},
+  Author                   = {Barend Mons, Cameron Neylon, Jan Velterop, Michel Dumontier, Luiz Olavo Bonino da Silva Santos and Mark D. Wilkinson},
+  Journal                  = {Information Services \& Use},
+  Year                     = {2017},
+
+  Month                    = {March},
+  Number                   = {1},
+  Pages                    = {49-65},
+  Volume                   = {37}
+}
+
 @Article{Boyack2005,
   Title                    = {Mapping the backbone of science},
   Author                   = {Kevin W. Boyack and Richard Klavans and Katy B/orner},
