@@ -1,0 +1,261 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF8
+
+
+@Article{Boyack2005,
+  Title                    = {Mapping the backbone of science},
+  Author                   = {Kevin W. Boyack and Richard Klavans and Katy B/orner},
+  Journal                  = {Scientometrics},
+  Year                     = {2005},
+  Number                   = {3},
+  Pages                    = {351-374},
+  Volume                   = {64},
+
+  Abstract                 = {This paper presents a new map representing the structure of all of science, based on journal articles, including both the natural and social sciences. Similar to cartographic maps of our world, the map of science provides a bird’s eye view of today`s scientific landscape. It can be used to visually identify major areas of science, their size, similarity, and interconnectedness. In order to be useful, the map needs to be accurate on a local and on a global scale. While our recent work has focused on the former aspect,1 this paper summarizes results on how to achieve structural accuracy. Eight alternative measures of journal similarity were applied to a data set of 7,121 journals covering over 1 million documents in the combined Science Citation and Social Science Citation Indexes. For each journal similarity measure we generated two-dimensional spatial layouts using the force-directed graph layout tool, VxOrd. Next, mutual information values were calculated for each graph at different clustering levels to give a measure of structural accuracy for each map. The best co-citation and inter-citation maps according to local and structural accuracy were selected and are presented and characterized. These two maps are compared to establish robustness. The inter-citation map is then used to examine linkages between disciplines. Biochemistry appears as the most interdisciplinary discipline in science.},
+  Doi                      = {10.1007/s11192-005-0255-6},
+  File                     = {:https\://github.com/LaraHack/linkflows/blob/master/literature/articles/Mapping_the_Backbone_of_Science-Boyack.pdf:URL;:home/cristina-iulia/git/linkflows/literature/articles/Mapping_the_Backbone_of_Science-Boyack.pdf:PDF},
+  Keywords                 = {Mapping science, maps of science, data organization, clustering, interlinking, similarity measures},
+  Url                      = {https://link.springer.com/article/10.1007/s11192-005-0255-6}
+}
+
+@Article{Clark2014,
+  Title                    = {Micropublications: a semantic model for claims, evidence, arguments and annotations in biomedical communications},
+  Author                   = {Tim Clark and Paolo N Ciccarese and Carole A Goble},
+  Journal                  = {Journal of Biomedical Semantics},
+  Year                     = {2014},
+
+  Doi                      = {10.1186/2041-1480-5-28},
+  File                     = {:https\://github.com/LaraHack/linkflows/blob/master/literature/articles/Micropublications-Clark.pdf:URL;:home/cristina-iulia/git/linkflows/literature/articles/Micropublications-Clark.pdf:PDF},
+  Keywords                 = {Semantic publishing, Micropublications},
+  Url                      = {https://jbiomedsem.biomedcentral.com/articles/10.1186/2041-1480-5-28}
+}
+
+@PhdThesis{Fielding2000,
+  Title                    = {Architectural Styles and the Design of Network-based Software Architectures},
+  Author                   = {Roy Thomas Fielding},
+  School                   = {Univeristy of California, Irvine},
+  Year                     = {2000},
+
+  File                     = {:https\://github.com/LaraHack/linkflows/blob/master/literature/articles/Architectural_Styles_and_the_Design_of_Network-based_Software_Architectures-Fielding.pdf:URL;:home/cristina-iulia/git/linkflows/literature/articles/Architectural_Styles_and_the_Design_of_Network-based_Software_Architectures-Fielding.pdf:PDF},
+  Url                      = {https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm}
+}
+
+@Online{Guedon2017,
+  Title                    = {Open Access: Toward the Internet of the Mind},
+  Url                      = {http://www.budapestopenaccessinitiative.org/boai15/Untitleddocument.docx},
+
+  Author                   = {Jean-Claude Guédon},
+  Organization             = {Budapest Open Access Initiative},
+
+  File                     = {:https\://github.com/LaraHack/linkflows/blob/master/literature/articles/Toward_the_Internet_of_the_Mind-Guedon.pdf:URL;:home/cristina-iulia/git/linkflows/literature/articles/Toward_the_Internet_of_the_Mind-Guedon.pdf:PDF},
+  Owner                    = {Jean-Claude Guédon}
+}
+
+@Article{Iorio2011,
+  Title                    = {A Semantic Web approach to everyday overlapping markup},
+  Author                   = {Angelo Di Iorio and Silvio Peroni and Fabio Vitali},
+  Journal                  = {Journal of the American Society for Information Science and Technology},
+  Year                     = {2011},
+
+  Month                    = {September},
+  Number                   = {9},
+  Pages                    = {1696-1716},
+  Volume                   = {62},
+
+  Abstract                 = {Overlapping structures in XML are not symptoms of a misunderstanding of the intrinsic characteristics of a text document nor evidence of extreme scholarly requirements far beyond those needed by the most common XML-based applications. On the contrary, overlaps have started to appear in a large number of incredibly popular applications hidden under the guise of syntactical tricks to the basic hierarchy of the XML data format. Unfortunately, syntactical tricks have the drawback that the affected structures require complicated workarounds to support even the simplest query or usage. In this article, we present Extremely Annotational Resource Description Framework (RDF) Markup (EARMARK), an approach to overlapping markup that simplifies and streamlines the management of multiple hierarchies on the same content, and provides an approach to sophisticated queries and usages over such structures without the need of ad-hoc applications, simply by using Semantic Web tools and languages. We compare how relevant tasks (e.g., the identification of the contribution of an author in a word processor document) are of some substantial complexity when using the original data format and become more or less trivial when using EARMARK. We finally evaluate positively the memory and disk requirements of EARMARK documents in comparison to Open Office and Microsoft Word XML-based formats.},
+  Doi                      = {10.1002/asi.21591},
+  File                     = {:https\://github.com/LaraHack/linkflows/blob/master/literature/articles/A_Semantic_Web_Approach_to_Everyday_Overlapping_Markup-Di_Iorio.pdf:URL;:home/cristina-iulia/git/linkflows/literature/articles/A_Semantic_Web_Approach_to_Everyday_Overlapping_Markup-Di_Iorio.pdf:PDF},
+  Url                      = {http://onlinelibrary.wiley.com/doi/10.1002/asi.21591/full}
+}
+
+@InProceedings{Kuhn2013,
+  Title                    = {Broadening the Scope of Nanopublications},
+  Author                   = {Tobias Kuhn and Paolo Emilio Barbano and Mate Levente Nagy and Michael Krauthammer},
+  Booktitle                = {The Semantic Web: Semantics and Big Data - 10th International Conference, ESWC 2013, Montpellier, France, May 26-30, 2013. Proceedings},
+  Year                     = {2013},
+  Pages                    = {487-501},
+  Publisher                = {Springer Berlin Heidelberg},
+  Series                   = {Lecture Notes in Computer Science},
+  Volume                   = {7882},
+
+  Abstract                 = {In this paper, we present an approach for extending the existing concept of nanopublications — tiny entities of scientific results in RDF representation — to broaden their application range. The proposed extension uses English sentences to represent informal and underspecified scientific claims. These sentences follow a syntactic and semantic scheme that we call AIDA (Atomic, Independent, Declarative, Absolute), which provides a uniform and succinct representation of scientific assertions. Such AIDA nanopublications are compatible with the existing nanopublication concept and enjoy most of its advantages such as information sharing, interlinking of scientific findings, and detailed attribution, while being more flexible and applicable to a much wider range of scientific results. We show that users are able to create AIDA sentences for given scientific results quickly and at high quality, and that it is feasible to automatically extract and interlink AIDA nanopublications from existing unstructured data sources. To demonstrate our approach, a web-based interface is introduced, which also exemplifies the use of nanopublications for non-scientific content, including meta-nanopublications that describe other nanopublications.},
+  Doi                      = {10.1007/978-3-642-38288-8_33},
+  File                     = {:https\://github.com/LaraHack/linkflows/blob/master/literature/articles/Broadening_the_Scope_of_Nanopublications.pdf:URL;:home/cristina-iulia/git/linkflows/literature/articles/Broadening_the_Scope_of_Nanopublications.pdf:PDF},
+  Keywords                 = {Nanopublications, interlinking, AIDA sentences, controlled natural languages},
+  Url                      = {https://link.springer.com/chapter/10.1007%2F978-3-642-38288-8_33}
+}
+
+@Article{Kuhn2016,
+  Title                    = {Decentralized provenance-aware publishing with nanopublications},
+  Author                   = {Tobias Kuhn and Christine Chichester and Michael Krauthammer and Nuria Queralt-Rosinach and Ruben Verborgh and George Giannakopoulos and Axel-Cyrille Ngonga Ngomo and Raffaele Viglianti and Michel Dumontier},
+  Journal                  = {PeerJ Computer Science},
+  Year                     = {2016},
+
+  Doi                      = {10.7717/peerj-cs.78},
+  File                     = {:https\://github.com/LaraHack/linkflows/blob/master/literature/articles/Descentralized_Provenance-Aware_Publishing_with_Nanopublications.pdf:URL;:home/cristina-iulia/git/linkflows/literature/articles/Descentralized_Provenance-Aware_Publishing_with_Nanopublications.pdf:PDF},
+  Keywords                 = {Data publishing, Nanopublications, Provenance, Linked Data, Semantic Web},
+  Url                      = {https://peerj.com/preprints/1760/}
+}
+
+@Article{Mons2011,
+  Title                    = {The value of data},
+  Author                   = {Barend Mons and Herman van Haagen and Christine Chichester and Peter-Bram ‘t Hoen and Johan T den Dunnen and Gertjan van Ommen and Erik van Mulligen and Bharat Singh and Rob Hooft and Marco Roos and Joel Hammond and Bruce Kiesel and Belinda Giardine and Jan Velterop and Paul Groth and Erik Schultes},
+  Journal                  = {Nature Genetics},
+  Year                     = {2011},
+  Number                   = {43},
+  Pages                    = {281-283},
+
+  Abstract                 = {Data citation and the derivation of semantic constructs directly from datasets have now both found their place in scientific communication. The social challenge facing us is to maintain the value of traditional narrative publications and their relationship to the datasets they report upon while at the same time developing appropriate metrics for citation of data and data constructs.},
+  Doi                      = {10.1038/ng0411-281},
+  File                     = {:https\://github.com/LaraHack/linkflows/blob/master/literature/articles/The_Value_of_Data-Mons.pdf:URL;:home/cristina-iulia/git/linkflows/literature/articles/The_Value_of_Data-Mons.pdf:PDF},
+  Keywords                 = {Semantic publishing, data publication, data archiving, nanopublications, provenance},
+  Url                      = {http://www.nature.com/ng/journal/v43/n4/full/ng0411-281.html}
+}
+
+@Article{Mons2017,
+  Title                    = {Cloudy, increasingly FAIR; revisiting the FAIR Data guiding principles for the European Open Science Cloud},
+  Author                   = {Barend Mons and Cameron Neylon and Jan Velterop and Michel Dumontier and Luiz Olavo Bonino da Silva Santos and Mark D. Wilkinson},
+  Journal                  = {Information Services \& Use},
+  Year                     = {2017},
+
+  Month                    = {March},
+  Number                   = {1},
+  Pages                    = {49-65},
+  Volume                   = {37},
+
+  Doi                      = {10.3233/ISU-170824},
+  File                     = {:https\://github.com/LaraHack/linkflows/blob/master/literature/articles/Cloudy%2CIncreasingly_FAIR\:Revisiting_the_FAIR_Data_guiding_Principles_for_the_European_Open_Science_Cloud-Mons.pdf:URL;:home/cristina-iulia/git/linkflows/literature/articles/Cloudy,Increasingly_FAIR\:Revisiting_the_FAIR_Data_guiding_Principles_for_the_European_Open_Science_Cloud-Mons.pdf:PDF},
+  Url                      = {http://content.iospress.com/articles/information-services-and-use/isu824}
+}
+
+@PhdThesis{,
+  Title                    = {Semantic Publishing: issues, solutions and new trends in scholarly publishing within the Semantic Web era},
+  Author                   = {Silvio Peroni},
+  School                   = {Universita di Bologna},
+  Year                     = {2012},
+
+  Url                      = {http://speroni.web.cs.unibo.it/publications/peroni-2012-semantic-publishing-issues.pdf}
+}
+
+@InProceedings{Peroni2008,
+  Title                    = {Identifying key concepts in an ontology, through the integration of cognitive principles with statistical and topological measures},
+  Author                   = {Silvio Peroni and Enrico Motta and Mathieu d’Aquin},
+  Booktitle                = {Lecture Notes in Computer Science},
+  Year                     = {2008},
+  Editor                   = {Proceeding ASWC '08 Proceedings of the 3rd Asian Semantic Web Conference on The Semantic Web},
+  Month                    = {December},
+  Note                     = {Web},
+  Organization             = {ASWC: Asian Semantic Web Conference},
+  Pages                    = {242-256},
+  Publisher                = {Springer-Verlag Berlin, Heidelberg},
+  Volume                   = {5367},
+
+  Doi                      = {10.1007/978-3-540-89704-0_17},
+  File                     = {:https\://github.com/LaraHack/linkflows/blob/master/literature/articles/Identifying_Key_Concepts_in_an_Ontology_through_the_Integration_of_Cognitive_Principles_with_Statistical_and_Topological_Measures-Peroni.pdf:URL;:home/cristina-iulia/git/linkflows/literature/articles/Identifying_Key_Concepts_in_an_Ontology_through_the_Integration_of_Cognitive_Principles_with_Statistical_and_Topological_Measures-Peroni.pdf:PDF},
+  Url                      = {http://dl.acm.org/citation.cfm?id=1484163}
+}
+
+@InProceedings{Waard2012,
+  Title                    = {Formalising uncertainty: an ontology of reasoning, certainty and attribution (ORCA)},
+  Author                   = {Anita de Waard and Jodi Schneider},
+  Booktitle                = {SATBI+SWIM'12 Proceedings of the Joint 2012 International Conference on Semantic Technologies Applied to Biomedical Informatics and Individualized Medicine},
+  Year                     = {2012},
+  Editor                   = {Alejandro Rodriguez Gonzalez Centre for Plant Biotechnology and Genomics, Polytechnic University of Madrid and Jyotishman Pathak Mayo Clinic and Mark Wilkinson Centre for Plant Biotechnology \& Genomics, Polytechnic University of Madrid and Nigam Shah Stanford Center for Biomedical Informatics Research, Stanford University and Robert Stevens Department of Computer Science, University of Manchester},
+  Month                    = {November},
+  Pages                    = {10-17},
+  Publisher                = {CEUR-WS.org Aachen, Germany, Germany},
+  Volume                   = {930},
+
+  Abstract                 = {To enable better representations of biomedical argumentation over collections of research papers, we propose a model and a lightweight ontology to represent interpersonal, discourse-based, data-driven reasoning. This model is applied to a collection of scientific documents, to show how it can be applied in practice. We present three biomedical applications for this work, and suggest connections with other, existing, ontologies and reasoning tools. Specifically, this model offers a lightweight way to connect nanopublication-like formal representations to scientific papers written in natural language.},
+  File                     = {:https\://github.com/LaraHack/linkflows/blob/master/literature/articles/Formalising_Uncertainty-An_Ontology_of_Reasoning_Certainty_and_Attribution-deWaard.pdf:URL;:home/cristina-iulia/git/linkflows/literature/articles/Formalising_Uncertainty-An_Ontology_of_Reasoning_Certainty_and_Attribution-deWaard.pdf:PDF},
+  Keywords                 = {scholarly communication, ontologies, nanopublications, semantic publishing, provenance trails},
+  Url                      = {http://dl.acm.org/citation.cfm?id=2887634}
+}
+
+@Online{altmetric,
+  Title                    = {Altmetric},
+  Url                      = {https://www.altmetric.com},
+
+  Abstract                 = {A single research output may live online in multiple websites and can be talked about across dozens of different platforms. At Altmetric, we work behind the scenes, collecting and collating all of this disparate information to provide you with a single visually engaging and informative view of the online activity surrounding your scholarly content.},
+  Addendum                 = {\\Aggregator of online presence mentions of scholary content by monitoring: mainstream media outlets like news feeds, online reference managers like Mendeley, data from Open Syllabus Project, research highlights from F1000, Wikipedia, blogs, citations, social media like Facebook (public pages), Twitter, Google+, LinkedIn, etc. together with multimedia and other online platforms like YouTube, Reddit, etc.\\
+ Tools offered: browser plugin to see altimetrics for any publication with a DOI, embedding altimetrics statistics, altimetrics API to query the database.},
+  HowPublished             = {2017-02-21},
+  Keywords                 = {interlinking mentions of scientific resources, impact of research, flavours of impact, monitor research},
+  Review                   = {Acesta este un test},
+  Timestamp                = {2017-02-21}
+}
+
+@Online{bibsonomy,
+  Title                    = {BibSonomy},
+  Url                      = {https://www.bibsonomy.org},
+
+  Abstract                 = {BibSonomy helps you to organize your scientific work. Use BibSonomy to collect publications and bookmarks, to collaborate with your colleagues, and to discover interesting researches for your daily work.},
+  Addendum                 = {An online framework that allows users to collect and bookmark publications for their own usage and also tag them. This collection of publications can then be easily used to create a bibliography in various formats. Also, users can connect to each other and collaborate.},
+  Keywords                 = {semantic publishing, collection of publications}
+}
+
+@Online{connectedresearchers,
+  Title                    = {ConnectedResearchers},
+  Url                      = {http://connectedresearchers.com/online-tools-for-researchers/},
+
+  Addendum                 = {\\A list with digital tools for researchers categorized as follows: literature exploration, code and data sharing, connecting with others, writing and publishing articles and evaluating the research.},
+  Keywords                 = {online tools, research, semantic publishing, quality assessment}
+}
+
+@Online{dqv,
+  Title                    = {Data Quality Vocabulary},
+  Url                      = {https://www.w3.org/TR/vocab-dqv/},
+
+  Abstract                 = {A framework in which the quality of a dataset can be described, whether by the dataset publisher or by a broader community of users. It does not provide a formal, complete definition of quality, rather, it sets out a consistent means by which information can be provided such that a potential user of a dataset can make his/her own judgment about its fitness for purpose.},
+  Addendum                 = {\\A W3C framework that allows the description of the quality of a dataset. The quality assessments can be made by various organizations and/or people: certification aggencies, data aggregators, data consumers, etc.},
+  Keywords                 = {quality assessment}
+}
+
+@Online{hypothes,
+  Title                    = {Hypothes},
+  Url                      = {https://hypothes.is/},
+
+  Addendum                 = {\\An open platform that uses annotations and notes to share regarding news, blogs, scientific articles, books, etc.}
+}
+
+@Online{labworm,
+  Title                    = {LabWorm},
+  Url                      = {https://labworm.com/},
+
+  Addendum                 = {\\Search engine for online tools to assist in research},
+  Keywords                 = {semantic publishing, search engine}
+}
+
+@Online{ldn,
+  Title                    = {Linked Data Notifications},
+  Url                      = {https://www.w3.org/TR/ldn/},
+
+  Abstract                 = {Linked Data Notifications is a protocol that describes how servers (receivers) can have messages pushed to them by applications (senders), as well as how other applications (consumers) may retrieve those messages. Any resource can advertise a receiving endpoint (Inbox) for the messages. Messages are expressed in RDF, and can contain any data.},
+  Addendum                 = {\\A W3C protocol that allows data to be shared across applications, independent of the data storage.},
+  Keywords                 = {linking, semantic publishing, W3C protocol}
+}
+
+@Online{provpings,
+  Title                    = {PROV-Pings},
+  Url                      = {http://prov-pings.org},
+
+  Abstract                 = {PROV-Pings is a service that allows you to link publications to their provenance, and query and retrieve it afterwards. It combines a provenance query and pingback service.},
+  Addendum                 = {\\A web service used to link publications to their provenance. The responsibility of providing a provenance to a publication is not in the hands of the publisher anymore, but in the hands of the crowd. This is done by pushing a query with the provenance information.\\
+PROV-AQ (Provenance Access and Query):\\
+\textless publication-uri\textgreater prov:has\_provenance <provenance-uri>\\
+PROV-Pings:\\
+<publication-uri> prov:pingback <prov-pings-uri?target=publication-uri>\\
+<publication-uri> prov:has\_query\_service <prov-pings-uri>},
+  Keywords                 = {semantic publishing, provenance, linking}
+}
+
+@Online{semanticscholar,
+  Title                    = {Semantic Scholar},
+  Url                      = {https://www.semanticscholar.org/},
+
+  Addendum                 = {\\A corpus of computer science and neuroscience papers with a search engine for the publications in its database. It can also identify missing citations using Citeomatic.},
+  Keywords                 = {semantic pubishing, quality assessment, search engine}
+}
+
+@comment{jabref-entrytype: Online: req[title;url] opt[author;organization]}
+
