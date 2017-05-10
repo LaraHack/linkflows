@@ -1,0 +1,40 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{csquotes}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+
+%\usepackage[style=reading,entryhead=false,annotation=true,backend=biber]{biblatex}
+\usepackage[annotation=true,defernumbers=true,backend=biber]{biblatex}
+\addbibresource{Literature_Reading.bib}
+\defbibfilter{papers}{
+	type=article or
+	type=inproceedings
+}
+
+\title{Literature Reading}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+%Test - insert random citation here~\cite{Kuhn2016} and this one~\cite{altmetric} and \cite{Clark2014}
+\nocite{*}
+
+\printbibheading[title={Publications by type}]
+%\printbibliography
+\printbibliography[filter=papers, title={Papers only}, heading=subbibliography, resetnumbers=true]
+%\printbibliography[type=book,title={Books only}]
+\printbibliography[type=online, title={Online resources}, heading=subbibliography, resetnumbers=true]
+
+\printbibheading[title={Publications by field}]
+%\printbibliography[keyword={nanopublications},title={Nanopubs-related only}]
+\printbibliography[keyword={semantic publishing}, title={Semantic publishing-related only}, heading=subbibliography, resetnumbers=true]
+%\printbibliography[keyword={quality assessment},title={Quality assessment-related only}]
+
+\end{document}
