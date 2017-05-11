@@ -11,6 +11,9 @@
 *.cb
 *.cb2
 
+## SyncTeX folders in TeXLive to enable synchronization between source TeX files and the resulting dvi or pdf file:
+*.synlatex.gz
+
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
