@@ -239,7 +239,10 @@ domains.},
 
 @Manual{,
   Title                    = {Semantic annotation of publication entities},
-  Author                   = {David Shotton and Silvio Peroni}
+  Author                   = {David Shotton and Silvio Peroni},
+
+  File                     = {:home/cristina-iulia/git/linkflows/literature/articles/Semantic_Annotation_of_Publication_Entities-Schotton.pdf:PDF},
+  Url                      = {http://speroni.web.cs.unibo.it/publications/shotton-2010-semantic-annotation-publication.pdf}
 }
 
 @Inproceedings{Waard2012,
