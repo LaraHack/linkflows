@@ -75,6 +75,7 @@ domains.},
   Author                   = {Angelo Di Iorio and Alberto Musetti and Silvio Peroni and Fabio Vitali},
   Booktitle                = {Human System Interactions (HSI): 3rd International Conference on Human System Interaction in Rzesz/'ow, Poland},
   Year                     = {2010},
+  Pages                    = {563-570},
   Publisher                = {IEEE},
 
   Abstract                 = {While the original design of wikis was mainly focused on a completely open free-form text model, semantic wikis have since moved towards a more structured model for editing: users are driven to create ontological data in addition to text by using ad-hoc editing interfaces. This paper introduces OWiki, a framework for creating ontological content within not-natively-semantic wikis. Ontology-driven forms and templates are the key concepts of the system, that allows even inexpert users to create consistent semantic data with little effort. Multiple and very different instances of OWiki are presented here. The expressive power and flexibility of OWiki proved to be the right trade-off to deploy the authoring environments for such very different domains, ensuring at the same time editing freedom and semantic data consistency.},
