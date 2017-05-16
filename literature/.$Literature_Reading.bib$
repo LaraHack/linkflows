@@ -135,6 +135,7 @@ domains.},
   Series                   = {SePublica'14},
   Volume                   = {1155},
 
+  File                     = {:home/cristina-iulia/git/linkflows/literature/articles/Describing_Bibliographic_References_in_RDF-Iorio.pdf:PDF},
   Keywords                 = {Semantic publishing},
   Url                      = {http://ceur-ws.org/Vol-1155/paper-05.pdf}
 }
