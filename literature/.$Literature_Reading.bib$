@@ -444,6 +444,7 @@ two task-based user testing sessions.},
 
   Abstract                 = {Recently, several ontologies have been introduced for semantic publishing. However, scholarly publishing, like other real-world domains, needs to be described also in terms of precise temporal durations and the particular contexts in which the relevant processes take place. For instance, a document changes status during its publication process, e.g., from "draft" to "submitted" to "under review" to "accepted for publication", and so on. Similarly, one's roles may change with time: one's affiliation with an academic institution or one's role as a journal editor are likely to change over time. Existing well-known ontologies used to describe individuals and bibliographic entities in the Linked Data are currently not able to model situations of temporary or context-dependent possession (e.g., the holding of a status or of a role). In this paper, we address this issue by introducing two ontologies for semantic publishing, the Publishing Roles Ontology and the Publishing Status Ontology, that define the roles of people and the statuses of documents in the scholarly publishing domain.},
   Doi                      = {10.1145/2362499.2362502},
+  File                     = {:home/cristina-iulia/git/linkflows/literature/articles/Scholarly_Publishing_and_Linked_Data-Describing_Roles_Statuses_Temporal_and_Contextual_Extents-Peroni.pdf:PDF},
   Url                      = {dl.acm.org/ft_gateway.cfm?id=2362502}
 }
 
