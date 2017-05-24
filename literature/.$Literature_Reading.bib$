@@ -282,6 +282,7 @@ drift and related phenomena can be modeled in RDF through the use
 of context. We explain and support the definitions through an example
 from historical research and argue that a formal modeling of semantic
 change in RDF can help to better interpret data.},
+  File                     = {:home/cristina-iulia/git/linkflows/literature/articles/On_the_Semantics_of_Concept_Drift\:Towards_Formal_Definitions_of_Semantic_Change-Fokkens.pdf:PDF},
   Url                      = {http://ceur-ws.org/Vol-1799/Drift-a-LOD2016_paper_2.pdf}
 }
 
