@@ -18,6 +18,11 @@
 	type=inproceedings or
 	type=inCollection
 }
+\defbibfilter{books}{
+	type=Book or
+	type=Manual or
+	type=PhdThesis
+}
 
 \title{Literature Reading}
 \author{}
@@ -32,8 +37,9 @@
 \printbibheading[title={Publications by type}]
 %\printbibliography
 \printbibliography[filter=papers, title={Papers only}, heading=subbibliography, resetnumbers=true]
-%\printbibliography[type=book,title={Books only}]
+%\printbibliography[filter=books, title={Books only}, heading=subbibliography, resetnumbers=true]
 \printbibliography[type=online, title={Online resources}, heading=subbibliography, resetnumbers=true]
+\printbibliography[type=PhdThesis, title={PhD Theses}, heading=subbibliography, resetnumbers=true]
 
 \printbibheading[title={Publications by field}]
 %\printbibliography[keyword={nanopublications},title={Nanopubs-related only}]
