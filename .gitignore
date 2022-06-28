@@ -17,6 +17,7 @@
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
+*.sav
 # these rules might exclude image files for figures etc.
 # *.ps
 # *.eps
